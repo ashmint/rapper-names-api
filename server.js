@@ -12,7 +12,7 @@ const rappers = {
     'chance the rapper': {
         'age' : 29,
         'birthName': 'chancelor Bennet',
-        'birthLocation': 'Chicago'
+        'birthLocation': 'Chicago, US'
     },
     'dylan': {
         'age' : 29,
