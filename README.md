@@ -1,5 +1,5 @@
 # rap-names-api
-This is a simple api that allows you to make a request to the server, and it respoonds with the rappers birth name.
+This is a simple api that allows you to make a request to the server, and it responds with the rappers birth name.
 
 **Link to project:** https://simple-rap-api-ashmint.herokuapp.com/
 
