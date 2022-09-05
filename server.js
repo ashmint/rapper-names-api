@@ -21,6 +21,11 @@ const rappers = {
         'age' : 0,
         'birthName': 'unknown',
         'birthLocation': 'unknown'
+    },
+    'eminem': {
+        'age' : 49,
+        'birthName': 'Marshall Bruce Mathers III',
+        'birthLocation': ' Saint Joseph, Missouri, United States'
     }
 }
 
